@@ -15,37 +15,5 @@ body{
   float: left;
 }
 /*Nav Styling*/
-#main_nav {
-  float: left;
-  width: 100%;
-  background-color: #333;
-}
-#main_nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  float: left;
-  position: relative;
-  left:50%;
-}
-#main_nav ul li {
-  float: left;
-  position: relative;
-  right: 50%;
-}
-#main_nav ul li a {
-  padding: 10px 25px;
-  display: block;
-  text-decoration: none;
-  color: #ccc;
-}
-#main_nav ul li a:hover {
-  background-color: #ccc;
-  color: #333;
-}
-#main_nav ul li a{
-  font-size: 2em;
-  font-family: 'Doto', monospace;
-  color: rgba(0,255,0,1)
-}
+
 
