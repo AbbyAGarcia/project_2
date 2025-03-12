@@ -4,6 +4,7 @@
 body{
   background-image: url("../media/blkbck.jpg");
 }
+/*wraps*/
 #page_wrap{
   width:960px;
   margin:0 auto;
@@ -14,7 +15,7 @@ body{
   background-color: white;
   float: left;
 }
-/*Nav Styling*/
+/*Nav bar*/
 #main_nav {
   float: left;
   width: 100%;
@@ -37,11 +38,11 @@ body{
   padding: 10px 25px;
   display: block;
   text-decoration: none;
-  color: #ccc;
+  color: #;
 }
 #main_nav ul li a:hover {
   background-color: #ccc;
-  color: #333;
+  color: rgb(0,0,0);
 }
 #main_nav ul li a{
   font-size: 2em;
