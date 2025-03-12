@@ -43,7 +43,7 @@ body{
   background-color: #ccc;
   color: #333;
 }
-#main_nav{
+#main_nav ul li a{
   font-size: 2em;
   font-family: 'Doto', monospace;
   color: rgba(0,255,0,1)
