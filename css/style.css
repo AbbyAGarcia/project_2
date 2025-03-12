@@ -13,7 +13,7 @@ body{
 }
 #content_wrap{
   background-color: white;
-  float: left;
+  float: center;
 }
 /*Nav bar*/
 #main_nav {
