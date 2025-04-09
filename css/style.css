@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&family=Manrope:wght@200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 /*background image*/
 body{
   background-image: url("../media/blkbck.jpg");
@@ -12,7 +12,7 @@ body{
   border-radius: 12px 12px 0px 0px;
 }
 #content_wrap{
-  background-color: white;
+  background-color:rgb(128,128,128);
   float: center;
 }
 /*Nav bar*/
@@ -47,6 +47,57 @@ body{
 #main_nav ul li a{
   font-size: 2em;
   font-family: 'Doto', monospace;
-  color: rgba(0,255,0,1)
+  color: rgba(0,255,0,1);
 }
+/*h1 font and centering*/
+#content_wrap h1{
+  font-size: 3em;
+  font-family: 'Doto', monospace;
+  color:rgba(0,255,0,1);
+}
+ h1{
+  text-align: center;
+}
+/* h2 font and centering*/
+h2{
+  font-size: 2em;
+  font-family: 'Roboto mono', roboto;
+  color:rgba(0,0,0);
+}
+h2{
+  text-align:center;
+}
+
+/*h3 font and centering*/
+h3{
+  font-size:2em;
+  font-family: 'Roboto mono', roboto;
+  color: rgba(0,0,0)
+}
+h3{
+  text-align: center;
+}
+/*text font and centering*/
+p{
+  font-size:1em;
+  font-family: 'Arial', arial;
+  color: rgba(0,0,0)
+}
+p{
+  text-align: center;
+}
+/*img centering*/
+img{
+  display:block;
+  margin: auto;
+  width: 25%;
+  height: 50%;
+}
+
+  
+
+
+  
+
+  
 
