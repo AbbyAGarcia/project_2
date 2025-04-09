@@ -38,7 +38,7 @@ body{
   padding: 10px 25px;
   display: block;
   text-decoration: none;
-  color: #white;
+  color: #333;
 }
 #main_nav ul li a:hover {
   background-color: #ccc;
