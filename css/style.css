@@ -93,6 +93,22 @@ img{
   width: 25%;
   height: 50%;
 }
+/*resume page center alignment*/
+#content_wrap ul li{
+  text-align: center;
+}
+#content_wrap ul li{
+  list-style:none;
+}
+#content_wrap ul li{
+   font-size:1em;
+  font-family: 'Arial', arial;
+  color: rgba(0,0,0)
+}
+  
+
+
+
 
   
 
