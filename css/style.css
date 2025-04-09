@@ -13,7 +13,7 @@ body{
 }
 #content_wrap{
   background-color:rgb(128,128,128);
-  float: center;
+  text-align: center;
 }
 /*Nav bar*/
 #main_nav {
